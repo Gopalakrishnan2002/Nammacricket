@@ -106,9 +106,9 @@ const App = () => {
           </section>
         ) : (
           <div className="active-players">
-             <span className="player-tag">🏏 {name}</span>
-             <span className="player-tag">vs</span>
-             <span className="player-tag">⚾ {bowler}</span>
+            <span className="player-tag">🏏 {name}</span>
+            <span className="player-tag">vs</span>
+            <span className="player-tag">⚾ {bowler}</span>
           </div>
         )}
 
